@@ -1,0 +1,16 @@
+{
+  "name": "3-chai-backend",
+  "version": "1.0.0",
+  "description": "a back end in chai aur code channel - youtube",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "backend",
+    "chai"
+  ],
+  "author": "awt",
+  "license": "ISC"
+}
